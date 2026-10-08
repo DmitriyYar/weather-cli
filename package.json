@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "license": "ISC",
+  "author": "Dmitriy Yarygin",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://purpleshcool.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://purpleshcool.ru"
+  },
+  "bugs": {
+    "url": "https://purpleshcool.ru",
+    "email": "anat@gmail.ru"
+  }
+}
